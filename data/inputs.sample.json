@@ -1,0 +1,28 @@
+{
+  "searches": [
+    {
+      "title": "Data Engineer",
+      "location": "United States",
+      "maxResults": 30,
+      "filters": {
+        "employmentType": ["F"],
+        "workplaceType": ["2", "3"],
+        "experienceLevel": ["2", "3"],
+        "datePosted": "r86400",
+        "easyApply": true,
+        "underTenApplicants": false,
+        "industryIds": [6, 96]
+      }
+    },
+    {
+      "title": "Senior Software Engineer",
+      "location": "Germany",
+      "maxResults": 20,
+      "filters": {
+        "employmentType": ["F"],
+        "workplaceType": ["1", "2"],
+        "datePosted": "r604800"
+      }
+    }
+  ]
+}
