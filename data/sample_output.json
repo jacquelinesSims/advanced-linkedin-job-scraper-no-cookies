@@ -1,0 +1,55 @@
+[
+  {
+    "id": "4227647589",
+    "title": "Associate Data Engineer",
+    "linkedinUrl": "https://www.linkedin.com/jobs/view/4227647589/",
+    "jobState": "LISTED",
+    "postedDate": "2025-05-14T17:12:41.000Z",
+    "descriptionText": "About the Company\nEast Daley Analytics builds energy market intelligence products...",
+    "descriptionHtml": "<p><b>About the Company</b></p><p>East Daley Analytics builds energy market intelligence products...</p>",
+    "location": {
+      "linkedinText": "Greenwood Village, CO",
+      "parsed": {
+        "text": "Greenwood Village, CO",
+        "city": "Greenwood Village",
+        "state": "CO",
+        "country": null
+      }
+    },
+    "employmentType": "full_time",
+    "workplaceType": "on_site",
+    "salary": {
+      "text": "80,000 - 85,000 USD",
+      "min": 80000,
+      "max": 85000,
+      "currency": "USD"
+    },
+    "company": {
+      "name": "East Daley Analytics",
+      "employeeCount": 34,
+      "linkedinUrl": "https://www.linkedin.com/company/east-daley-analytics",
+      "industries": [
+        "Oil and Gas",
+        "Energy Analytics"
+      ],
+      "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQH-_example_logo.png",
+      "hq": "Greenwood Village, Colorado, United States"
+    },
+    "benefits": [
+      "Medical, Dental, Vision",
+      "401(k)",
+      "Paid time off"
+    ],
+    "applicants": 1,
+    "views": 2,
+    "applyMethod": {
+      "url": "https://www.eastdaley.com/careers/apply/associate-data-engineer",
+      "label": "Apply on company site"
+    },
+    "jobFunctions": [
+      "Engineering",
+      "Information Technology"
+    ],
+    "expireAt": "2025-06-30T23:59:59.000Z"
+  }
+]
