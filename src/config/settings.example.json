@@ -1,0 +1,11 @@
+{
+  "scraper": {
+    "baseUrl": "https://www.linkedin.com/jobs/search/",
+    "jobViewBaseUrl": "https://www.linkedin.com/jobs/view/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "maxPages": 2,
+    "resultsPerPage": 25,
+    "defaultMaxResults": 50,
+    "maxWorkers": 6
+  }
+}
